@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="height_recycler_view_item">72dp</dimen>
+    <dimen name="toolbar_alevation">4dp</dimen>
+</resources>
